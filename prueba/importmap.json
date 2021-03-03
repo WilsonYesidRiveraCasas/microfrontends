@@ -1,0 +1,11 @@
+{
+    "imports": {
+      "react": "https://cdn.jsdelivr.net/npm/react@16.13.0/umd/react.production.min.js",
+      "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.0/umd/react-dom.production.min.js",
+      "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.1/lib/system/single-spa.min.js",
+      "@bbta/root-config": "https://single-spa-demo-wriver1.s3.amazonaws.com/root-config/bbta-root-config.js",
+      "@bbta/nav": "https://single-spa-demo-wriver1.s3.amazonaws.com/nav/bbta-nav.js",
+      "@bbta/page1": "https://single-spa-demo-wriver1.s3.amazonaws.com/page1/bbta-page1.js",
+      "@bbta/page2": "https://single-spa-demo-wriver1.s3.amazonaws.com/page2/bbta-page2.js"
+    }
+  }
